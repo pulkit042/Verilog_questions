@@ -1,7 +1,10 @@
 # 🛠️ Verilog Practice Questions and Solutions
 Welcome to my Verilog Coding Practice repository! 🚀
 Here, I solve interesting Verilog problems by first stating the problem description and then writing a clean, modular Verilog solution.
-This repository is designed to strengthen my Verilog skills and help others who are also learning hardware description languages!
+
+In this repository I have added questions from basic to advanced level, also in the solution files I have personally added comments which will make learning more easy and efficient.
+
+This repository is designed to strengthen Verilog skills and help those who are learning hardware description languages!
 
 # 📚 Repository Structure
 
