@@ -18,7 +18,7 @@ Each question is organized as:  ✅ Easy to navigate      ✅ Beginner-friendly
         
         solution.v     → Verilog code solution
         
-        [optional] diagram.png → Supporting image or diagram
+        diagram.png → Supporting image or diagram
 
 # 📋 Topics Covered
 1. Basics of Verilog
